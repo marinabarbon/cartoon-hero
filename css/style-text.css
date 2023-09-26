@@ -1,8 +1,27 @@
+body {
+	font-family: montserrat;
+}
+
+header {
+	background-color: #DAF7A6;
+	padding: 45px 45px;
+}
+
+main {
+	padding: 45px;
+}
+
 h1 {
+	font-family: helvetica;
 	font-size: 30px;
-	color: steelblue;
+	color: darkgreen;
 }
 h2 {
 	font-size: 23px;
-	color: hotpink;
+	color: darkseagreen;
+}
+
+footer {
+	background-color: #DAF7A6;
+	padding: 45px;
 }
