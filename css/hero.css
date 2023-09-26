@@ -1,0 +1,16 @@
+body {
+	margin: 0;
+	font-family: lora;
+}
+header {
+	background-color: #DAF7A6;
+	text-align: center;
+	padding: 50px 0;
+}
+header h1 {
+	color: #434A31;
+}
+
+header img {
+	border: 17px solid white;
+}
