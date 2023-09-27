@@ -4,13 +4,39 @@ body {
 }
 header {
 	background-color: #DAF7A6;
+	background-image: url("img/leaves.jpg");
 	text-align: center;
 	padding: 50px 0;
 }
+
+h1, h2, h3 {
+	font-family: 'Kaushan Script', cursive;
+}
+
 header h1 {
-	color: #434A31;
+	color: black;
+	font-size: 50px;
+}
+
+h2 {
+	font-size: 35px;
+}
+
+h3 {
+	font-size: 25px;
 }
 
 header img {
-	border: 17px solid white;
+	border: 17px solid black;
+}
+
+main img {
+	width: 800px;
+	margin: 10px 0 5px 0;
+}
+
+.subtitle {
+	padding: 0;
+	margin: 0;
+	font-style: italic;
 }
