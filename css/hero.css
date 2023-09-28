@@ -43,16 +43,19 @@ main {
 	padding: 5%;
 }
 
+.center {
+	text-align: center;
+	font-style: italic;
+}
+
+.center p {
+	margin: 0;
+}
+
 main img {
 	max-width: 100%;
 	width: 800px;
 	margin: 10px 0 5px 0;
-}
-
-.subtitle {
-	padding: 0;
-	margin: 0;
-	font-style: italic;
 }
 
 a {
