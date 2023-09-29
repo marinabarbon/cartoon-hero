@@ -1,6 +1,7 @@
 body {
 	margin: 0;
 	font-family: 'Lora', serif;
+	line-height: 30px;
 }
 
 header {
@@ -46,6 +47,7 @@ main {
 .center {
 	text-align: center;
 	font-style: italic;
+	color: #71230F;
 }
 
 .center p {
@@ -60,8 +62,33 @@ main img {
 
 a {
 	color: #200001;
+	text-decoration: none;
 }
 
 a:hover {
 	color: #DE4301;
+}
+
+ul {
+	list-style: none;
+	text-align: center;
+}
+
+ul img {
+	width: 150px;
+}
+
+ul li {
+	display: inline-block;
+	text-align: center;
+	line-height: 15px;
+	padding: 0 20px 0 20px;
+}
+
+footer {
+	background-color: #71230F;
+	color: white;
+	text-align: center;
+	margin: none;
+	padding: 8%;
 }
