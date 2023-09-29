@@ -19,10 +19,11 @@ h1, h2, h3 {
 
 header h1, h3 {
 	color: whitesmoke;
+	line-height: 10px;
 }
 
 h1 {
-	font-size: 50px;
+	font-size: 60px;
 }
 
 h2 {
@@ -35,7 +36,7 @@ h3 {
 
 header img {
 	border-radius: 200px;
-	border: 9px solid white;
+	border: 15px solid rgba(255, 255, 255, 0.5);
 }
 
 main {
